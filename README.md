@@ -22,9 +22,9 @@ github : @MR-ROGUE
 
 Installation && Build dependencies :
 
-git clone https://github.com/MR-ROGUE/RoguePhisher
-cd RoguePhisher
-bash rphisher.sh
+>git clone https://github.com/MR-ROGUE/RoguePhisher
+>cd RoguePhisher
+>bash rphisher.sh
 
 DONATE
 PAYPAL : paypal.me/venkeyrogue
