@@ -15,7 +15,7 @@ I am not responsible for your actions
 Social media handle:
 
 
-Instagram page: @cyber_king_of_internet
+Instagram page: @cyber.security.unlocked
 
 Facebook page : @venkey.rouge
 
