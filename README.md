@@ -3,7 +3,7 @@
 >Advanced phishing toll with 30+ templates and updated URL Redirection
 
 Author - Venkateshu Dudyala
-
+*This repo is un maintained*
 DISCLAIMER
 
 
