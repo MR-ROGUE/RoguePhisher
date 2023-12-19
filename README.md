@@ -31,7 +31,6 @@ cd RoguePhisher
 
 bash rphisher.sh
 
-
 DONATE
 
 PAYPAL : paypal.me/venkeyrogue
